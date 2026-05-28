@@ -1,4 +1,8 @@
-# my-first-bot
+# My First Bot
+
+[![Workflow Status](https://github.com/gasukwo52-commits/my-first-bot/actions/workflows/azure-webapps-node.yml/badge.svg)](https://github.com/gasukwo52-commits/my-first-bot/actions/workflows/azure-webapps-node.yml)
+
+This is my first automation bot. my-first-bot
 creativity
 print("Bot started!")
 
